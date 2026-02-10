@@ -33,9 +33,9 @@ React · TypeScript · TanStack Query 기반 SPA 개발
 
 ## ✨ Git Status
 
-<div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LCHyeon&theme=nord_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LCHyeon&theme=nord_dark" />
-  <br/>
-  <img width="70%" src="https://streak-stats.demolab.com?user=LCHyeon&theme=nord&card_height=180" />
+<div align="center"> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LCHyeon&theme=nord_dark" /> 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LCHyeon&theme=nord_dark" /> 
+  <br/> 
+  <img src="https://streak-stats.demolab.com?user=LCHyeon&theme=nord" /> 
 </div>
