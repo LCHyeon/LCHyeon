@@ -25,10 +25,10 @@
 -------------------------------
 
 <div align="center">
-  <img style="height:180px; width:48%; margin-right: 2%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api?username=LimChihyeon&show_icons=true&theme=nord"/>
-  <img style="height:180px; width:48%; margin-left: 2%; object-fit: cover;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LimChihyeon&layout=compact&theme=nord&hide_border=true" /> 
-</div>
-
-<a href="https://github.com/LCHyeon"><img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLimChihyeon%2F&count_bg=%2341B870&title_bg=%23EFE744&icon=iconify.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LCHyeon&theme=nord_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LCHyeon&theme=nord_dark" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=LCHyeon&theme=nord" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LCHyeon&theme=nord" />
 </div>
