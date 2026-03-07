@@ -10,6 +10,10 @@
 React · TypeScript · TanStack Query 기반 SPA 개발
 <br>
 
+- **🧠 SpecRAG — RAG 기반 문서 질의응답 프로젝트**  
+Spring WebFlux 기반 채팅 서버 구성 및 SSE 스트리밍 연동  
+Redis · Kafka · Docker · k3s 환경 구성 실험
+
 ---
 
 
